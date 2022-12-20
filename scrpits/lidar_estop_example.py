@@ -4,7 +4,7 @@ import rospy
 from sensor_msgs.msg import LaserScan
 from geometry_msgs.msg import Twist
 from dynamic_reconfigure.server import Server
-from limo_examples.cfg import lidar_move_exampleConfig
+from limo_demo.cfg import lidar_move_exampleConfig
 
 import math
 
