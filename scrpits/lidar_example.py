@@ -3,7 +3,7 @@
 import rospy
 from sensor_msgs.msg import LaserScan
 from dynamic_reconfigure.server import Server
-from limo_examples.cfg import lidar_exampleConfig
+from limo_demo.cfg import lidar_exampleConfig
 
 import math
 
